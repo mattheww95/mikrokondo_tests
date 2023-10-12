@@ -1,9 +1,9 @@
 sample,assembly
-GCF_000006925.2_ASM692v2,https://github.com/mattheww95/mikrokondo_tests/blob/main/assemblies/GCF_000006925.2_ASM692v2_genomic.fna.gz
-GCF_000006945.2_ASM694v2,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/assemblies/GCF_000006945.2_ASM694v2_genomic.fna.gz
-GCF_000008865.2_ASM886v2,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/assemblies/GCF_000008865.2_ASM886v2_genomic.fna.gz
-GCF_000013425.1_ASM1342v1,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/assemblies/GCF_000013425.1_ASM1342v1_genomic.fna.gz
-GCF_000196035.1_ASM19603v1,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/assemblies/GCF_000196035.1_ASM19603v1_genomic.fna.gz
-GCF_000240185.1_ASM24018v2,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/assemblies/GCF_000240185.1_ASM24018v2_genomic.fna.gz
-GCF_002204915.1_ASM220491v1,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/assemblies/GCF_002204915.1_ASM220491v1_genomic.fna.gz
-GCF_028826965.1_ASM2882696v1,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/assemblies/GCF_028826965.1_ASM2882696v1_genomic.fna.gz
+GCF_000006925.2_ASM692v2,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/assemblies/GCF_000006925.2_ASM692v2_genomic.fna.gz
+GCF_000006945.2_ASM694v2,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/assemblies/GCF_000006945.2_ASM694v2_genomic.fna.gz
+GCF_000008865.2_ASM886v2,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/assemblies/GCF_000008865.2_ASM886v2_genomic.fna.gz
+GCF_000013425.1_ASM1342v1,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/assemblies/GCF_000013425.1_ASM1342v1_genomic.fna.gz
+GCF_000196035.1_ASM19603v1,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/assemblies/GCF_000196035.1_ASM19603v1_genomic.fna.gz
+GCF_000240185.1_ASM24018v2,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/assemblies/GCF_000240185.1_ASM24018v2_genomic.fna.gz
+GCF_002204915.1_ASM220491v1,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/assemblies/GCF_002204915.1_ASM220491v1_genomic.fna.gz
+GCF_028826965.1_ASM2882696v1,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/assemblies/GCF_028826965.1_ASM2882696v1_genomic.fna.gz
