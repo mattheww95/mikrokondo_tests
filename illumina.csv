@@ -1,8 +1,2 @@
 sample,fastq_1,fastq_2
-Escherichia_coli,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/reads/illumina/Escherichia_coli1.fq.gz,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/reads/illumina/Escherichia_coli2.fq.gz
-Klebsiella_pnuemoniae,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/reads/illumina/Klebsiella_pnuemoniae1.fq.gz,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/reads/illumina/Klebsiella_pnuemoniae2.fq.gz
-Listeria_monocytogenes,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/reads/illumina/Listeria_monocytogenes1.fq.gz,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/reads/illumina/Listeria_monocytogenes2.fq.gz
-Salmonella_enterica,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/reads/illumina/Salmonella_enterica1.fq.gz,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/reads/illumina/Salmonella_enterica2.fq.gz
-Shigella_flexneri,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/reads/illumina/Shigella_flexneri1.fq.gz,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/reads/illumina/Shigella_flexneri2.fq.gz
-Staphylococcus_aureus,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/reads/illumina/Staphylococcus_aureus1.fq.gz,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/reads/illumina/Staphylococcus_aureus2.fq.gz
-Vibrio_vulnificus,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/reads/illumina/Vibrio_vulnificus1.fq.gz,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/reads/illumina/Vibrio_vulnificus2.fq.gz
+Escherichia_coli,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/reads/illumina/GCF_000008865.2_ASM886v21.fq.gz,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/main/reads/illumina/GCF_000008865.2_ASM886v22.fq.gz
