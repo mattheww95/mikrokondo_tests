@@ -1,5 +1,5 @@
 sample,assembly
-GCF_000006925.2_ASM692v2,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/assemblies/GCF_000006925.2_ASM692v2_genomic.fna.gz
+GCF_000006925.2_ASM692v2,https://github.com/mattheww95/mikrokondo_tests/blob/main/assemblies/GCF_000006925.2_ASM692v2_genomic.fna.gz
 GCF_000006945.2_ASM694v2,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/assemblies/GCF_000006945.2_ASM694v2_genomic.fna.gz
 GCF_000008865.2_ASM886v2,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/assemblies/GCF_000008865.2_ASM886v2_genomic.fna.gz
 GCF_000013425.1_ASM1342v1,https://raw.githubusercontent.com/mattheww95/mikrokondo_tests/assemblies/GCF_000013425.1_ASM1342v1_genomic.fna.gz
